@@ -1,0 +1,9 @@
+-MEDIUM VUE ARTICLE
+https://medium.com/kocsistem/vue-js-t%C3%BCrk%C3%A7e-kaynak-cbb1d0d73490
+
+*************************************************************************
+
+-Dynamic vs SPA vs Static Websites
+https://academind.com/tutorials/dynamic-vs-static-vs-spa
+
+*************************************************************************

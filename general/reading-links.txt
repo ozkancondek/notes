@@ -4,3 +4,8 @@ How The Web Works
 https://academind.com/tutorials/how-the-web-works
 
 ***********************************************************************************************
+How does the Internet work?
+ 
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
+
+***********************************************************************************************

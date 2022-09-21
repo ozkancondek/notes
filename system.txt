@@ -7,3 +7,16 @@ npm install
 https://stackoverflow.com/questions/16073603/how-to-update-each-dependency-in-package-json-to-the-latest-version
 
 ***********************************************************************************************
+
+-REBASE BRANCH
+Option 1 in local
+    update master
+    merge branch to master and push
+
+Option 2 in local
+    Pull master and update  
+    checkout your branch
+    git rebase master 
+    check conflicts
+    git push force 
+

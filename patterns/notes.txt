@@ -1,0 +1,22 @@
+What is Design PAtterns? 
+    -Its a typical solutions to common proplems in software design
+    -Each pattern works like pre-made blueprint
+    -Pattern is not a spesific piece of code but a general solution
+    -Its not an algorithm because they are set of actions to achive some goals
+    -Pattern is high level description
+    -Ex. code of same pattern in two application can be different
+    -Algorithm => spesic Pattern => general 
+
+Why should you learn Patterns ? 
+    -You can manage your code without patterns but propably you used some of them before unconciously
+    -They are toolkit of tried and tested solutions for common problems
+
+Classification
+    -Patterns are different from eachother with complexity 
+    -We call high-level patterns architectural
+1-Creational Patterns
+    -Those patterns provides various object creation mechanizm, which increase flexibilty and creation of reusable code. 
+2-Structural Patterns   
+    -These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
+3-Behavioral Patterns
+    -These patterns are concerned with algorithms and the assignment of responsibilities between objects.

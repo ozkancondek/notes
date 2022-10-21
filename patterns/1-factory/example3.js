@@ -62,18 +62,19 @@ class Truck {
 class Factory {
   //method
 
-  create = (options, vehicleType) => {
+  create = (options, TargetClass) => {
     if (!vehicleType) {
       return "unable to make vehicle. Please specify a vehicle type and tryagain!";
     }
 
     let vehicle;
-
+    /* 
     if (vehicleType === "car") {
       vehicle = new Car(options);
     } else if (vehicleType === "truck") {
       vehicle = new Truck(options);
-    }
+    } */
+    vehicle = new TargetClass(options);
     //I can add more options
 
     vehicle.vehicleType = vehicleType; //take vehicleType
@@ -98,7 +99,7 @@ const car = vehicleFactory.create(
     doors: 2,
     color: "black",
   },
-  "car"
+  Car
 );
 
 const truck = vehicleFactory.create(

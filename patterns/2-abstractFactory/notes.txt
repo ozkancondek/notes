@@ -1,0 +1,12 @@
+-links
+    -https://dev.to/carlillo/understanding-design-patterns-abstract-factory-23e7
+    -https://www.mshowto.org/tasarim-desenleri-yazi-dizisi-bolum-1-abstract-factory-soyut-fabrika.html
+
+
+Abstract-Factory method
+    -Abstract Factory patterns work around a super-factory which creates other factories. 
+    -This factory is also called as factory of factories.
+    -Abstract Factory pattern an interface is responsible for creating a factory of related objects without explicitly specifying their classes.
+    -Each generated factory can give the objects as per the Factory pattern.
+    -The purpose of the Abstract Factory is to provide an interface for creating families of related objects, without specifying concrete classes. 
+     

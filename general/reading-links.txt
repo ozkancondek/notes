@@ -2,10 +2,50 @@
 How The Web Works
  
 https://academind.com/tutorials/how-the-web-works
+https://www.freecodecamp.org/news/how-the-internet-works/
 
 ***********************************************************************************************
 How does the Internet work?
  
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
 
+
+
+What is CI/CA pipeline?
+https://www.redhat.com/en/topics/devops/what-cicd-pipeline#:~:text=A%20continuous%20integration%20and%20continuous,development%20life%20cycle%20via%20automation.
+https://www.tutorialworks.com/cicd-pipeline-stages/
+https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/what-is-a-full-stack-developer-full-stack-engineer-guide/amp/
+
+***********************************************************************************************
+
+
+Nullish coalescing operator (??)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing
+
+
+***********************************************************************************************
+What is a compiler?
+
+https://www.techtarget.com/whatis/definition/compiler
+
+***********************************************************************************************
+
+Webpack
+https://levelup.gitconnected.com/what-is-webpack-4fdb624597ae
+***********************************************************************************************
+
+Eslint
+https://levelup.gitconnected.com/what-is-webpack-4fdb624597ae
+***********************************************************************************************
+
+JS Resuce
+https://prototurk.com/javascript/array-reduce-metodu#:~:text=reduce()%20metodu%2C%20dizinin%20her,parametresi%20olan%20accumulator%20parametresinde%20saklan%C4%B1r.
+***********************************************************************************************
+
+Hoisting
+https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
+***********************************************************************************************
+ 
+***********************************************************************************************
+***********************************************************************************************
 ***********************************************************************************************
